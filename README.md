@@ -1,8 +1,16 @@
 # Report on Arduino Temperature Control Project with Visual and Auditory Alert
 
+![video](src/assets/Circuit-video.gif)
+
 ## Introduction:
 
 The aim of the project is to create a temperature control system using an Arduino board, temperature sensor, fan motor, LEDs, and a buzzer. The goal is to monitor ambient temperature and activate the fan when the temperature exceeds a certain threshold, while also providing visual and auditory alerts in emergency situations.
+
+![img](src/assets/img1.png)
+
+![img](src/assets/img3.png)
+
+![img](src/assets/img2.png)
 
 ## Methods:
 
